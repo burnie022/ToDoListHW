@@ -59,20 +59,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ToDoListAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/sargent/mark/todolist/ToDoListAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1600">
-              <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1166#1167#0" expanded="true" />
-                <element signature="e#1211#1212#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="spinner_search.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/spinner_search.xml">
           <provider editor-type-id="text-editor">
@@ -105,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="item.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="item.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -114,6 +100,19 @@
             </state>
           </provider>
           <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_to_do_adder.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_to_do_adder.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="23" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2">
             <state />
           </provider>
         </entry>
@@ -2055,7 +2054,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/selector_row.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/sargent/mark/todolist/UpdateToDoFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/sargent/mark/todolist/AddToDoFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_to_do_adder.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/sargent/mark/todolist/ToDoListAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/sargent/mark/todolist/data/ToDoItem.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/sargent/mark/todolist/data/DBHelper.java" />
@@ -2067,6 +2065,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/sargent/mark/todolist/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_to_do_adder.xml" />
       </list>
     </option>
   </component>
@@ -2629,17 +2628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_to_do_adder.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="23" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/sargent/mark/todolist/AddToDoFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="875">
@@ -2787,6 +2775,17 @@
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_to_do_adder.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="23" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>

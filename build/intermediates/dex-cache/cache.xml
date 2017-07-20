@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\git\ToDoList\Android-Class-Examples\ToDoList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce31926409653a39b3a08dbc4e9c300f6bd3f31a">
+        <dex dex="C:\git\ToDoList\Android-Class-Examples\ToDoList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_35312c6f55150ea4fa874103287a952d3650946c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\burnie\.android\build-cache\8f28ceaa960a08ca9ea47ca0a35adb5ddcb09eed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\git\ToDoList\Android-Class-Examples\ToDoList\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92a5a16d052eb9911531e2e002b8fe7457ad939a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\git\ToDoList\Android-Class-Examples\ToDoList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\git\ToDoList\Android-Class-Examples\ToDoList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_075d6716c964bf4834d03444311f7ef78fc56208\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string-array name="spinner_array">
+        <item>Not Important</item>
+        <item>Crucial</item>
+        <item>Important</item>
+        <item>Somewhat Important</item>
+    </string-array>
+    <string-array name="menu_spinner_array">
+        <item>Show All</item>
+        <item>Not Important</item>
+        <item>Crucial</item>
+        <item>Important</item>
+        <item>Somewhat Important</item>
+    </string-array>
+    <string name="menu">Sort</string>
+    <string name="sort0">Show All</string>
+    <string name="sort1">Not Important</string>
+    <string name="sort2">Crucial</string>
+    <string name="sort3">Important</string>
+    <string name="sort4">Somewhat Important</string>
+
+
+</resources>
